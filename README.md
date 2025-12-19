@@ -11,7 +11,7 @@
 
 <br>
 
-Una aplicación web elegante y funcional para la gestión de tareas diarias. Este proyecto destaca por su interfaz moderna con efecto **Glassmorphism** (Vidrio Esmerilado) y su lógica construida enteramente con **JavaScript Vanilla** (sin frameworks), demostrando un dominio sólido de la manipulación del DOM y el almacenamiento local.
+Una aplicación web elegante y funcional para la gestión de tareas diarias. Este proyecto destaca por su interfaz moderna con efecto **Glassmorphism** (Vidrio Esmerilado) y su lógica construida enteramente con **JavaScript Vanilla** (sin frameworks), manejando un dominio sólido en la manipulación del DOM y el almacenamiento local.
 
 ## 📸 Captura de Pantalla
 ![Vista Previa](ruta/a/tu/imagen.png)
