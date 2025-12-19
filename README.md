@@ -11,7 +11,7 @@
 
 <div align="center">
   <a href="https://lipg22.github.io/Gestor-Tareas-Web/" target="_blank">
-    <img src="https://img.shields.io/badge/DEMO_EN_VIVO-Probar_Ahora_🚀-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Demo en Vivo" />
+    <img src="https://img.shields.io/badge/DEMO_EN_VIVO🚀-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Demo en Vivo" />
   </a>
 </div>
 
