@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task Master | JS Moderno</title>
+    <link rel="stylesheet" href="css/styles.css">
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+</head>
+<body>
+
+    <main class="container">
+        <header class="app-header">
+            <h1>Mis Tareas 📒</h1>
+            <p id="fecha">Cargando fecha...</p>
+        </header>
+
+        <form id="formulario">
+            <input type="text" id="input-tarea" placeholder="¿Qué harás hoy?" autocomplete="off">
+            <button type="submit" id="btn-agregar">
+                <i class="fas fa-plus"></i>
+            </button>
+        </form>
+
+        <div class="lista-container">
+            <ul id="lista-tareas">
+                </ul>
+        </div>
+
+        <footer class="stats">
+            <p>Pendientes: <span id="contador">0</span></p>
+            <button id="btn-limpiar" onclick="limpiarTodo()">Borrar todo</button>
+        </footer>
+    </main>
+
+    <script src="js/app.js"></script>
+</body>
+</html>
