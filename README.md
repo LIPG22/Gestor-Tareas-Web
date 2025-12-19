@@ -9,6 +9,12 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
+<div align="center">
+  <a href="https://lipg22.github.io/Gestor-Tareas-Web/" target="_blank">
+    <img src="https://img.shields.io/badge/DEMO_EN_VIVO-Probar_Ahora_🚀-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Demo en Vivo" />
+  </a>
+</div>
+
 <br>
 
 Una aplicación web elegante y funcional para la gestión de tareas diarias. Este proyecto destaca por su interfaz moderna con efecto **Glassmorphism** (Vidrio Esmerilado) y su lógica construida enteramente con **JavaScript Vanilla** (sin frameworks), manejando un dominio sólido en la manipulación del DOM y el almacenamiento local.
